@@ -1,0 +1,17 @@
+This is demo web chat with socket on openshift
+
+
+After register hosting, you can create a web chat example like this
+Step 1: login to hosting: use fz, ..... 
+Step 2: create html or php file and run example
+Step 3: code template
+	+ add html construct
+	+ add jquery and socket.io
+	+ create input message
+	+ user javascript to handle even submit and send socket
+	    - call socket. (use url demo socket on openshift)
+	   	emit and on socket!
+	+ save file and run.
+
+finish!...........
+
